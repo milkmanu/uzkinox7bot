@@ -114,8 +114,8 @@ from aiogram.types import (
 # SOZLAMALAR
 # ============================================================
 
-BOT_TOKEN = "8844323602:AAHiifl8LXTAk3PbS2-Bgchs0UrGQKxQXQg"  # ODDIY (foydalanuvchilar) bot tokeni
-ADMIN_BOT_TOKEN = "SIZNING_ADMIN_BOT_TOKENINGIZ"              # ADMIN bot tokeni — @BotFather'dan alohida bot yarating
+BOT_TOKEN = "8487598334:AAFBU67c-xeqBx9k-_iKPo3e0Cpf2wYC5NY"  # ODDIY (foydalanuvchilar) bot tokeni
+ADMIN_BOT_TOKEN = "8939095247:AAGfswZixOnDcS9MgJWelFQ_n7zn74-Xwxk"              # ADMIN bot tokeni — @BotFather'dan alohida bot yarating
 BOT_USERNAME = "uzkinox7bot"  # @ belgisisiz, ODDIY botning haqiqiy usernamesi (referal havolalar shu bot uchun tuziladi)
 MINIAPP_URL = "https://USERNAME.pythonanywhere.com/"  # ⚠️ miniapp_api_server.py joylashtirilgan HTTPS manzilga almashtiring
 OWNER_ID = 8168552332
